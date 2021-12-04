@@ -1,0 +1,33 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+
+  "javascript.preferences.quoteStyle": "single",
+
+  "workbench.iconTheme": "vscode-icons",
+  "explorer.confirmDelete": false,
+  "window.zoomLevel": 0,
+
+  "typescript.validate.enable": false,
+  "javascript.validate.enable": false,
+
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+
+  "editor.fontFamily": "Cascadia Code PL",
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "terminal.integrated.fontFamily": "Cascadia Code PL",
+}
